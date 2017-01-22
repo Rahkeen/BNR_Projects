@@ -8,7 +8,8 @@ import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
 
-    private Button trueButton, falseButton;
+    private Button trueButton;
+    private Button falseButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
