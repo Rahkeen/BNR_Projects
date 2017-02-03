@@ -5,4 +5,9 @@
     <string name="false_btn">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_btn">Next</string>
+
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_memes">Memes are a waste of time.</string>
+    <string name="question_americas">The Amazon River is the longest river in the US.</string>
 </resources>
