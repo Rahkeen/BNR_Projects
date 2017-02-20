@@ -1,7 +1,7 @@
 package bnr.rikinmarfatia.geoquiz;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -19,7 +19,7 @@ public class QuizActivity extends AppCompatActivity {
     private TextView questionTextView;
     private int currentIndex = 0;
 
-    private Question[] questions = new Question[] {
+    private final Question[] questions = new Question[] {
             new Question(R.string.question_americas, true),
             new Question(R.string.question_memes, false),
             new Question(R.string.question_oceans, true)
